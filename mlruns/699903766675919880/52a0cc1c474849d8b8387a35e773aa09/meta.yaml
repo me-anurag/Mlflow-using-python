@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow-Basic-Demo/mlruns/699903766675919880/52a0cc1c474849d8b8387a35e773aa09/artifacts
+end_time: 1772041309535
+entry_point_name: ''
+experiment_id: '699903766675919880'
+lifecycle_stage: active
+run_id: 52a0cc1c474849d8b8387a35e773aa09
+run_name: SVM
+run_uuid: 52a0cc1c474849d8b8387a35e773aa09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772041306360
+status: 3
+tags: []
+user_id: Lenovo

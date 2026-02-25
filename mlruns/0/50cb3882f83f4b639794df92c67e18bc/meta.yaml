@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow-Basic-Demo/mlruns/0/50cb3882f83f4b639794df92c67e18bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50cb3882f83f4b639794df92c67e18bc
+run_name: crawling-mule-617
+run_uuid: 50cb3882f83f4b639794df92c67e18bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772017800463
+status: 1
+tags: []
+user_id: Lenovo

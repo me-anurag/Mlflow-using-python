@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow-Basic-Demo/mlruns/699903766675919880/94103b54aee34b0a9bc31ac8204f5f61/artifacts
+end_time: 1772041432860
+entry_point_name: ''
+experiment_id: '699903766675919880'
+lifecycle_stage: active
+run_id: 94103b54aee34b0a9bc31ac8204f5f61
+run_name: XGBoost
+run_uuid: 94103b54aee34b0a9bc31ac8204f5f61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772041429743
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow-Basic-Demo/mlruns/699903766675919880/bda180e0136f4068914ff886f7386473/artifacts
+end_time: 1772041269039
+entry_point_name: ''
+experiment_id: '699903766675919880'
+lifecycle_stage: active
+run_id: bda180e0136f4068914ff886f7386473
+run_name: ElasticNet
+run_uuid: bda180e0136f4068914ff886f7386473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772041265803
+status: 3
+tags: []
+user_id: Lenovo

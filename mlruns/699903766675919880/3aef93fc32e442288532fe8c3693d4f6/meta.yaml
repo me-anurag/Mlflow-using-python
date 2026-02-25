@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow-Basic-Demo/mlruns/699903766675919880/3aef93fc32e442288532fe8c3693d4f6/artifacts
+end_time: 1772041361333
+entry_point_name: ''
+experiment_id: '699903766675919880'
+lifecycle_stage: active
+run_id: 3aef93fc32e442288532fe8c3693d4f6
+run_name: Ridge_Regression
+run_uuid: 3aef93fc32e442288532fe8c3693d4f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772041358197
+status: 3
+tags: []
+user_id: Lenovo
